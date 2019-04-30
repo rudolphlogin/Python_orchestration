@@ -3,7 +3,6 @@
 #
 #  PURPOSE: Orhestrate daily job to get and process data coming in from ftp
 #  USAGE:   Master.sh
-#  AUTHOR:  Rudolph
 #  Changes:
 #
 ##############################################################################
