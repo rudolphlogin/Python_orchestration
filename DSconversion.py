@@ -1,7 +1,4 @@
-'''
-# Author:              Sapient Corporation
-# Date:                10-16-2017
-# --------------------------------------------------------------------------------------------------------------- ----  
+--- ----  
 # SUMMARY OF THE PROGRAM:    
 # This python script      
 #                oAuth Call
