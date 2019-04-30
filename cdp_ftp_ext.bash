@@ -4,7 +4,7 @@
 #  PURPOSE:				Copy cpsmyid data from FTP Location
 #  USAGE:       		cdp_ftp_ext.sh
 #  DEPENDENCY: 			LEVEL is defined to "dev","test", or "prod".
-#  AUTHOR: 				Rudolph
+
 #  Changes:
 # 
 ###############################################################################
